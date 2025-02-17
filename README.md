@@ -1,3 +1,3 @@
 # First-repo
 New repository <br>
-By : Garima
+By : Garima Khanduri
